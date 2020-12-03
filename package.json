@@ -1,0 +1,26 @@
+{
+    "author": {
+        "name": "Brian Kejlberg",
+        "email": "briankchristensen@gmail.com",
+        "url": "https://github.com/thetrompf"
+    },
+    "bin": {
+        "docker": "bin/docker"
+    },
+    "description": "Cli tool for managing docker containers in development without using an orchestrator.",
+    "name": "@zeroconf/docker-tools",
+    "keywords": [
+        "cli",
+        "command line",
+        "command-line",
+        "docker",
+        "container",
+        "development"
+    ],
+    "license": "BSD-3-Clause",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zeroconf-dev/docker-tools"
+    },
+    "version": "1.0.0"
+}
