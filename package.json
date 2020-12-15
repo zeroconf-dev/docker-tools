@@ -22,5 +22,5 @@
         "type": "git",
         "url": "git+https://github.com/zeroconf-dev/docker-tools"
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
