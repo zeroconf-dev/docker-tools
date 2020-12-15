@@ -5,7 +5,7 @@
         "url": "https://github.com/thetrompf"
     },
     "bin": {
-        "docker": "bin/docker"
+        "docker": "bin/docker.sh"
     },
     "description": "Cli tool for managing docker containers in development without using an orchestrator.",
     "name": "@zeroconf/docker-tools",
